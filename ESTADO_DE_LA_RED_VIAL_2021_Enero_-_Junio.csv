@@ -1,0 +1,329 @@
+DEPARTAMENTO,RUTA,CÓDIGO DE TRAMO,TRAMO,PR Inicial,PR Final,SECTOR,RED PAVIMENTADA MUY BUENO (KMS),RED PAVIMENTADA BUENO (KMS),RED PAVIMENTADA REGULAR (KMS),RED PAVIMENTADA MALO (KMS),RED PAVIMENTADA MUY MALO (KMS),RED NO PAVIMENTADA MUY BUENO (KMS),RED NO PAVIMENTADA BUENO (KMS),RED NO PAVIMENTADA REGULAR (KMS),RED NO PAVIMENTADA MALO (KMS),RED NO PAVIMENTADA MUY MALO (KMS),TOTAL PAVIMENTO,TOTAL NO PAVIMENTADO,RED EN INTERVENCIÓN,LONGITUD TOTAL CALIFICADA,LONGITUD TOTAL INVENTARIO,CALZADA UNICA,CALZADA IZQUIERDA,CALZADA DERECHA,"DISTANCIA
+EFECTIVA"
+ANTIOQUIA,25,2509,La Pintada - Medellín,64+0000,72+0084,Primavera - Medellín (*),13.69,2.24,0,0,0,0,0,0,0,0,15.93,0,,15.93,8.04,0,8.02,7.91,7.91
+ANTIOQUIA,25,2510,Medellín - Los Llanos,52+0474,87+1295,Hoyo Rico - Los Llanos,0,2.97,27.72,4.96,0,0,0,0,0,0,35.66,0,,35.66,35.657,35.65,0,0,35.65
+ANTIOQUIA,25,2511,Los Llanos - Tarazá,0+0000,124+0705,Los Llanos - Tarazá,0,13.75,91.66,18.99,0,0,0,0,0,0,124.4,0,,124.4,124.4,124.4,0,0,124.4
+ANTIOQUIA,25,2512,Tarazá - Caucasia,0+0000,63+0966,Tarazá - Caucasia,0,55.54,5.69,1.98,0,0,0,0,0,0,63.2,0,,63.2,63.202,63.2,0,0,63.2
+ANTIOQUIA,56,5601,Medellín - Don Diego - La Unión - Sonsón,49+0000,103+0000,La Unión - Sonsón (*),0,4.17,30.13,20.62,0,0,0,0,0,0,54.92,0,,54.92,55.174,52.45,1.23,1.23,53.68
+ANTIOQUIA,60,6003,La Mansa - Te de Amagá - Primavera,0+0000,44+0200,La Mansa - Bolombolo,1.41,11.43,20.57,7.88,0,0,0,2.488,0,0,41.28,2.49,,43.77,44.3,47.69,0,0,47.69
+ANTIOQUIA,60,6003,La Mansa - Te de Amagá - Primavera,88+0100,95+0031,Camilo C sectores no entregados en concesion,0,1.7,1.93,0.15,0,0,0,0,0,0,3.78,0,,3.78,3.78,11.06,3.07,3.01,14.07
+ANTIOQUIA,60,6005,Santuario - Cruce Ruta 45 (Caño Alegre),3+0000,135+0600,Peaje Cocorna - Cruce Ruta 45 (Caño Alegre),0,5,0,128,0,0,0,0,0,0,133,0,,133,132.6,133,0,0,133
+ANTIOQUIA,62,6204,Santa Fe de Antioquia - Medellín,16+0000,71+0000,Santa Fe de Antioquia - Medellín,0,1,18.56,34.83,1,0,0,0,0,0,55.4,0,,55.4,55.39,55.4,0,0,55.4
+ANTIOQUIA,62,6205,Cruce Ruta 25 (Hatillo) - Cisneros,9+0000,9+0700,Paso Nacional por Barbosa,0,0,0.7,0,0,0,0,0,0,0,0.7,0,,0.7,0.7,0.7,0,0,0.7
+ANTIOQUIA,62,6205,Cruce Ruta 25 (Hatillo) - Cisneros,53+0000,54+1158,Paso Nacional por Cisneros,0,0,0.19,2.12,0,0,0,0,0,0,2.31,0,,2.31,2.33,2.31,0,0,2.31
+ANTIOQUIA,62,6206,Cisneros - Puerto Olaya - Cruce Ruta 45,0+0000,1+0000,Paso Nacional por Cisneros,0,0,1,0,0,0,0,0,0,0,1,0,,1,1.023,1,0,0,1
+ANTIOQUIA,62,6206,Cisneros - Puerto Olaya - Cruce Ruta 45,95+0198,97+1261,Paso Nacional por Puerto Berrio (Incluye el Puente sobre el Río Magdalena),0,0,0.8,2.62,0,0,0,0,0,0,3.42,0,,3.42,3.48,3.42,0.36,0,3.42
+ANTIOQUIA,90,9002,Necoclí - Puerto Rey,0+0000,82+0049,Necoclí - Arboletes,27.17,20.36,23.43,4.97,0,0,0.25,5.25,0,0,75.93,5.5,,81.43,80.049,81.43,0,0,81.43
+ANTIOQUIA,90,90ANA,Varinte de Arboletes,0+0000,3+0884,Variante de Arboletes,1,3.29,0,0,0,0,0,0,0,0,4.29,0,,4.29,3.88,4.29,1,0,4.29
+ANTIOQUIA,90,90ANB,Varinte de Mellitos,0+0000,7+0790,Variante de Mellitos,8.1,0.79,0,0,0,0,0,0,0,0,8.89,0,,8.89,7.79,8.1,0,0,8.1
+ATLÁNTICO,27,2702,Salamina - Palermo,0+0000,63+1505,Salamina - Palermo,18.75,0,0,0,0,0,3.47,8.3,28.08,2.9,18.75,42.75,,61.5,61.21,64.11,0,0,64.105
+ATLÁNTICO,90,9006,Cartagena - Sabanalarga - Barranquilla,117+0103,117+0664,"Accesos, Orejas y Puente de la Cordialidad",0,0.56,2.49,0,0,0,0,0,0,0,3.05,0,,3.05,3.051,3.05,0,0,3.051
+ATLÁNTICO,90,9007,Barranquilla - Santa Marta,0+0000,1+1794,Accesos y Puente Laureano Gómez,0,1.51,0,0,0,0,0,0,0,0,1.51,0,,1.51,2.42,2.43,0,0,2.429
+ATLÁNTICO,90A,90A01,Cartagena - Lomita Arena - Barranquilla,109+0148,109+0670,"Accesos, Orejas y Puente Olaya Herrera",0,2.74,0,0,0,0,0,0,0,0,2.74,0,,2.74,2.74,2.96,0,0,2.964
+BOLÍVAR,78,7802,Puerta de Hierro - Magangué - Yatí - La Bodega,0+0000,68+0350,Puerta de Hierro - Magangué - Yatí (*),11.8,16.35,36.24,15.78,0,0,0,0,0,0,80.16,0,,80.16,68.36,66.04,1.17,1.17,67.206
+BOLÍVAR,78,78BL02,Talaiga Nuevo - Santa Ana,0+0000,4+0450,Talaiga Nuevo - Santa Ana,3.15,1.03,0,0,0,0,0,0,0,0,4.18,0,,4.18,4.18,4.18,0,0,4.18
+BOLÍVAR,78,7803,La Bodega - Mompox,0+0000,38+0000,La Bodega - Mompox,1.02,35.41,2.04,0,0,0,0,0,0,0,38.48,0,,38.48,38,38.47,0,0,38.47
+BOLÍVAR,78,7804,Mompox - Guamal,0+0000,33+0900,Mompox - Guamal,0,22.15,10.12,0,0,0,2.55,0,0,0,32.28,2.55,,34.83,33.63,34.83,0,0,34.83
+BOYACÁ,45,45BY01,Ramal a Puerto Boyacá,0+0000,2+0000,Ramal a Puerto Boyacá (*),0,0,2.34,0.97,0,0,0,0,0,0,3.31,0,,3.31,2,0.69,1.31,1.31,2
+BOYACÁ,45A,45ABYB,Variante de Chiquinquira,0+0000,6+0900,Variante de Chiquinquira,1.92,3.93,1.01,0,0,0,0,0,0,0,6.86,0,,6.86,6.86,6.86,0,0,6.855
+BOYACÁ,45A,45ACNC,Variante de Ubate,0+0000,3+0100,Variante de Ubate (*),0,3.03,3.12,0.15,0,0,0,0,0,0,6.3,0,,6.3,3.15,0,3.15,3.15,3.15
+BOYACÁ,45A,45A05,Ubaté - Puente Nacional,0+0000,89+0340,Ubaté - Puente Nacional (*),12.02,34.69,42.46,6.1,0,0,0,0,0,0,95.28,0,,95.28,90.47,95.28,4.71,4.71,99.988
+BOYACÁ,55,5503,Duitama - La Palmera,0+0000,134+0174,Duitama - La Palmera (*),1.99,29.48,78.65,29.75,0,0,0.21,0.21,0.78,0,139.88,1.19,,141.07,135.47,129.83,5.6,5.64,135.47
+BOYACÁ,55,55BY11,Santa Rosita - Onzaga,0+0000,6+0953,Santa Rosita - Límites Departamento de Boyacá,0,0,0,0,0,0,0,5.95,0.99,0,0,6.93,,6.93,6.94,6.93,0,0,6.933
+BOYACÁ,60,6006,Cruce Ruta 45 (Dos y Medio) - Otanche,0+0000,95+0080,Cruce Ruta 45 (Dos y Medio) - Otanche,17.43,3.94,4.13,7.1,2,0,0,19.89,40.07,0,34.61,59.95,,94.56,94.56,94.56,0,0,94.56
+BOYACÁ,60,6007,Otanche - Chiquinquirá,0+0000,32+0000,Otanche - Río Minero,0.26,19.5,3.9,8.13,0,0,0,0,0,0.09,31.8,0.09,,31.89,31.89,31.89,0,0,31.886
+BOYACÁ,60,6007,Otanche - Chiquinquirá,32+0000,90+0150,Río Minero - Chiquinquirá,0,10.71,26.7,17.47,0,0,0,1.94,0.45,0,54.89,2.4,,57.29,57.29,57.29,0,0,57.287
+BOYACÁ,60,6008,Chiquinquirá - Tunja,0+0000,37+0000,Chiquinquirá - Sáchica,0,12.5,19.1,5.92,0,0,0,0,0,0,37.52,0,,37.52,37.52,37.52,0,0,37.52
+BOYACÁ,60,6008,Chiquinquirá - Tunja,37+0000,73+0000,Sáchica - Tunja,0,19.79,10,5.68,0,0,0,0,0,0,35.47,0,,35.47,35.47,35.47,0,0,35.474
+BOYACÁ,60,6009,Tunja - Páez,0+0000,118+0000,Tunja - Páez,1.43,22.73,37.19,36.97,0,0,1,8.67,10.4,0,98.32,20.07,,118.4,118.12,117.46,0.47,0.47,117.926
+BOYACÁ,62,6209,Barbosa - Tunja,0+0000,64+0000,Barbosa - Tunja,4.89,22.42,32.66,2.96,0,0,0,0,0,0,62.93,0,,62.93,62.94,62.94,0,0,62.938
+BOYACÁ,62,6211,Sogamoso - Aguazul,0+0000,16+0000,Sogamoso - El Crucero,0.99,7.91,5.95,0.97,0,0,0,0,0,0,15.83,0,,15.83,15.83,15.83,0,0,15.83
+BOYACÁ,62,62BY05,La Ye (Cruce Ruta 62) - Tibasosa - Sogamoso,13+0000,14+1300,Paso Nacional por Sogamoso (*),0,1.41,1,1.38,0,0,0,0,0,0,3.79,0,,3.79,2.38,0.97,1.41,1.41,2.38
+BOYACÁ,64,6404,Belén - Sácama,0+0000,128+0500,Belén - Sácama,0.51,4.86,19.93,21.88,0,0,0,6.99,71.17,0,47.18,78.16,,125.34,125.34,125.34,0,0,125.341
+CALDAS,25,2508,Cauyá - La Pintada,0+0000,60+1000,Cauyá - La Felisa (*),15.39,36.85,9,0,0,0,0,0,0,0,61.23,0,,61.23,61.07,60.9,0.17,0.17,61.066
+CALDAS,29,2902,Pereira - Manizales,28+0600,45+0000,Chinchiná - Estación Uribe,5.57,10.92,0,0,0,0,0,0,0,0,16.49,0,,16.49,16.487,16.49,0,0,16.487
+CALDAS,50,5005,Tres Puertas - Puente La Libertad,23+0880,33+0880,Estación Uribe - Puente La Libertad (*),5.4,13.93,0,0,0,0,0,0,0,0,19.33,0,,19.33,10.15,0.99,9.18,9.18,10.17
+CALDAS,50,5006,Puente La Libertad - Fresno,0+0000,82+1024,Puente La Libertad - Fresno (*),45.88,28.01,9.01,0,0,0,0,0,0,0,82.9,0,,82.9,82.91,80.92,0.99,0.99,81.91
+CAQUETÁ,20,2003,Altamira - Gabinete - Florencia,38+0000,73+0747,Gabinete - El Caraño,0,0,7.81,1.18,0,0,20.34,6.33,0.23,0,8.99,26.9,,35.88,35.88,35.88,0,0,35.878
+CAQUETÁ,20,2003A,Orrapihuasi - Depresión El Vergel - Florencia,41+0742,83+0537,Depresión El Vergel - Florencia,25.37,11.9,4.52,0,0,0,0,0,0,0,41.8,0,,41.8,41.8,41.8,0,0,41.795
+CAQUETÁ,20,20CQ01,Cruce Tramo 2003 - Cruce Tramo 2003A,0+0000,1+0027,Cruce Tramo 2003 (El Caraño) - Cruce Tramo 2003A (Las Doradas),0,0,1,0,0,0,0,0,0,0,1,0,,1.003,1.03,1.03,0,0,1.027
+CAQUETÁ,30,3002,Balsillas - Mina Blanca,57+0500,111+0000,Santo Domingo - Mina Blanca,0,3,22.29,28.95,0,0,0,0,0,0,54.24,0,,54.24,54.5,54.24,0,0,54.24
+CAQUETÁ,65,6501,Villagarzón - San José del Fragua,55+0600,111+0000,Puerto Bello - San José del Fragua,28.78,1.06,0,0,0,0,8.9,8.72,7.93,0,29.84,25.55,,55.39,55.39,55.4,0,0,55.4
+CAQUETÁ,65,6502,San José del Fragua - Florencia,0+0000,58+0066,San José del Fragua - Florencia,20.95,37.06,0.36,0.18,0,0,0,0,0,0,58.54,0,,58.54,58.15,57.74,0.4,0.4,58.137
+CAQUETÁ,65,6503,Florencia - Puerto Rico,0+0000,96+0763,Florencia - Puerto Rico (*),63.59,20.03,12.42,1,0,0,0,0,0,0,97.05,0,,97.05,96.07,96.11,0.47,0.47,96.577
+CAQUETÁ,65,6504,Puerto Rico - Mina Blanca,0+0000,81+0092,Puerto Rico - Mina Blanca,0,12.32,24.95,52.98,0,0,0,0,0,0,90.24,0,,90.24,81.42,90.24,0,0,90.24
+CAQUETÁ,85,8501,Leticia - Tarapacá,4+0386,25+0000,Leticia - Tarapacá,0,4.86,9.71,2.02,0,0,0,0,3.71,0,16.59,3.71,,20.31,20.07,20.31,0,0,20.31
+CASANARE,62,6211,Sogamoso - Aguazul,16+0000,118+0616,El Crucero - Aguazul,0,32.43,46.46,22.73,0,0,0,0,0,0,101.62,0,,101.62,101.68,101.61,0,0,101.606
+CASANARE,64,6405,Sácama - Cruce Ruta 65,0+0000,32+0080,Sácama - Cruce Ruta 65 (La Cabuya) (*),0,1.28,5,2.3,0,0,10.1,7.7,6.6,0.1,8.58,24.5,,33.08,33.28,31.08,1,1,32.08
+CASANARE,65,6512,Monterrey - Yopal,103+0287,105+0448,Paso Nacional por Yopal (*),0,0,2.37,0,0,0,0,0,0,0,2.37,0,,2.37,2.03,1.95,0.21,0.21,2.16
+CASANARE,65,6513,Yopal - Paz de Ariporo,0+0000,90+0380,Yopal - Paz de Ariporo,0,50.17,27.05,13.43,0,0,0,0,0,0,90.65,0,,90.65,90.65,90.65,0,0,90.65
+CASANARE,65,6514,Paz de Ariporo - La Cabuya,0+0000,73+0380,Paz de Ariporo - La Cabuya,1.93,32.7,15.21,0,0,0.17,10.02,11.1,2,0,49.83,23.28,,73.11,73.01,73.11,0,0,73.113
+CASANARE,65,6515,La Cabuya - Saravena,0+0000,129+0180,La Cabuya - Saravena (*),0,6.28,110.64,14.27,0,0,0,0,0,0,131.18,0,,131.18,131.98,125.62,2.02,3.54,129.16
+CASANARE,66,6605,Tame - Corocoro,0+0000,131+0970,Tame - Corocoro,0,29.92,0,101.1,0,0,0,0,0,0,131.02,0,,131.02,130.54,130.54,0,0,130.539
+CASANARE,66,6606,Corocoro - Arauca,0+0000,44+0280,Corocoro - Arauca,0,1.98,15.65,28.95,0,0,0,0,0,0,46.58,0,,46.58,47.13,41.31,2.64,2.63,43.936
+CAUCA,12,1203,La Lupa - Santa Rosa,0+0000,110+0265,La Lupa - Santiago,0,32.16,9.65,8.06,1.15,0,36.12,19.29,4.13,0,51.02,59.54,,110.56,111.46,110.56,0,0,110.562
+CAUCA,20,2001,Munchique - Tablón - Popayán,0+0000,58+0050,Munchique  - Popayán,0,1.52,24.34,5.11,0,0,3.16,0,22.78,0,30.97,25.94,,56.91,56.91,56.91,0,0,56.91
+CAUCA,20,2002,Popayán - La Portada,0+0000,67+0370,Popayán - Río Mazamorras,9.19,8.76,12.57,13.99,0,0,0,0,23.14,0,44.52,23.14,,67.66,67.66,67.66,0,0,67.657
+CAUCA,24,2401,Patico - Candelaria,0+0000,75+0000,Patico - Candelaria,0,12.15,0,0,0,0,7.57,33.13,20.66,0,12.15,61.37,,73.52,73.71,73.52,0,0,73.521
+CAUCA,25,2501A,Pasto - Buesaco - Mojarras,102+0000,136+0000,Higuerones - Mojarras,0,0,22.67,11.28,0,0,0,0,0,0,33.95,0,,33.95,33.99,33.95,0,0,33.948
+CAUCA,25,25CCB,Variante de Popayán,0+0000,16+0000,Variante de Popayán,8,7.85,0,0,0,0,0,0,0,0,15.85,0,,15.85,15.86,15.86,0,0,15.861
+CAUCA,25,2503,Mojarras - Popayán,0+0000,121+0000,Mojarras - Popayán,0,17.98,66.9,36.49,0,0,0,0,0,0,121.37,0,,121.37,121.36,121.36,0,0,121.358
+CAUCA,25,2504,Popayán - Cali,77+0030,98+0020,Santander de Quilichao - Puente Valencia sobre el Río Cauca (*),31.47,3,0,0,0,0,0,0,0,0,34.47,0,,34.47,20.56,7.68,13.82,12.97,20.65
+CAUCA,25,25CCA,Paso Nacional por Santander de Quilichao,5+0100,6+0500,Paso Nacional por Santander de Quilichao (*),2.8,0,0,0,0,0,0,0,0,0,2.8,0,,2.8,1.4,0,1.4,1.4,1.4
+CAUCA,25,25CCC,Variante de Villarica,0+0000,2+0806,Variante de Villarica,2.75,1,0,0,0,0,0,0,0,0,3.75,0,,3.75,3,3,0,0,3
+CAUCA,25,25CCD,Variante de Puerto Tejada,0+0000,5+0000,Variante de Puerto Tejada,3,2,0,0,0,0,0,0,0,0,5,0,,5,5,5,0,0,5
+CAUCA,25,2504A,Ye de Villarica - Palmira,0+0000,21+0000,Ye de Villarica - Limites Cauca,13.9,5,2,0,0,0,0,0,0,0,20.9,0,,20.9,21,21,0,0,21
+CAUCA,25,25CC02,Timbío - El Hato - El Tablón (El Tambo Cruce Ruta 17),0+0000,19+0150,Timbío - El Tablón,0,0.38,1,3.48,0,0.06,7.41,6.83,,0,4.85,14.3,,19.15,19.15,19.16,0,0,19.16
+CAUCA,25,25CC04,Popayán - Alto Palacé - El Rosario,0+0000,28+0000,Popayán - El Rosario,0,1.5,0,0.39,0,0,8.87,7,10.5,0,1.89,26.37,,28.26,28.26,28.26,0,0,28.26
+CAUCA,25,25CC15,Rosas - La Sierra - La Vega - San Sebastián - Santiago,0+0000,121+0600,Rosas - La Sierra - La Vega - San Sebastián - Santiago,0,28.93,15.29,0.53,0,2.05,34.06,23.02,15.87,0,44.75,75,,119.75,119.75,119.75,0,0,119.75
+CAUCA,25,25CC15-1,Santiago - Santa Rosa,121+0600,170+0000,Santiago - Santa Rosa,0,0.72,0,0,0,0,0,32.28,15.65,0,0.72,47.93,,48.65,48.75,48.74,0,0,48.74
+CAUCA,26,2601,Morales - Piendamó,0+0000,17+0000,Morales - Piendamó,0,3.01,14.06,0,0,0,0,0,0,0,17.07,0,,17.07,16.6,17.07,0,0,17.072
+CAUCA,26,2602,Popayán (Crucero) - Guadualejo,0+0000,109+0010,Popayán (Crucero) - Guadualejo,27.54,18.38,13.97,23.99,0,0,0,0,22.46,0,83.87,22.46,,106.33,104.46,106.3,0,0,106.3
+CAUCA,26,2602A,Piendamó - Silvia - Totoró,0+0000,42+0000,Piendamó - Totoró,6.36,24.97,0.44,0,0,0,0,4.65,6.15,0,31.78,10.79,,42.57,41.74,42.57,0,0,42.568
+CAUCA,26,26CC03,Silvia - Las Delicias - Jambaló - Toribío,0+0000,28+0700,Jambaló - Toribío,0,0,0,0,0,0,0,25.1,2.9,0,0,28,,28,28,28,0,0,28
+CAUCA,26,26CC03-2,Tierracruz - Vitonco - Naranjal,0+0000,75+0000,Tierracruz - Naranjal,0,0,0,0,0,0,0,43,32,0,0,75,,75,72.93,74.99,0,0,74.99
+CAUCA,26,26CC04,Cruce 2602 - San Andrés de Pisimbala y Timbichucué - Calderas,0+0000,4+0000,Cruce Tramo 2602 - San Andrés de Pisimbalá,0,0,0,0,0,0,0,3.92,0,0,0,3.92,,3.92,4,3.92,0,0,3.915
+CAUCA,26,26CC04,Cruce 2602 - San Andrés de Pisimbala y Timbichucué - Calderas,18+0000,25+0000,Tumbichucué - Calderas,0,0,0,0,0,0,0,0,7.39,0,0,7.39,,7.39,7.3,7.39,0,0,7.385
+CAUCA,26,26CC07,Inzá - Las Juntas,0+0000,43+0000,Inzá - Las Juntas,0,0,0.75,0,0,0,0,10.24,32.11,0,0.75,42.35,,43.1,43.1,43.1,0,0,43.1
+CAUCA,31,3105,Santander de Quilichao - Florida - Palmira,0+0000,50+0000,Santander de Quilichao - Río Desbaratado (*),0,0.9,46.22,1.85,0,0,0,0,0,0,48.97,0,,48.97,48.97,45.53,1.72,1.72,47.25
+CAUCA,37,3701,Garzón - La Plata - Guadualejo,77+0000,87+0750,Puerto Valencia - Guadualejo,0,5.73,0,0,0,0,0,0,3.92,0,5.73,3.92,,9.65,9.19,9.65,0,0,9.65
+CAUCA,37,3702,Guadualejo - Belalcazar - El Palo,0+0000,42+0000,Guadualejo - Irlanda,0,0.56,0,1.01,0,0,0,21.69,20.49,0,1.57,42.18,,43.75,44.31,43.75,0,0,43.75
+CAUCA,37,3702,Guadualejo - Belalcazar - El Palo,53+0000,138+0200,Puente Río Negro - El Palo,0,0,13.2,12.2,0,0,0,30,16.8,9.4,25.4,56.2,,81.6,81.6,81.6,0,0,81.6
+CAUCA,37,37CCA,Variante de Toribío,0+0000,7+0000,Rionegro - Tacueyó,0,0,0.25,0,0,0,0,5.55,1.95,0,0.25,7.5,,7.75,7.75,7.75,0,0,7.75
+CAUCA,37,37CCB,Variante de Pajarito,0+0000,1+0000,Variante de Pajarito,0,0,0,0,0,0,0,0,1,0,0,1,,1,1,1,0,0,1
+CESAR,43,4313,El Banco - Arjona - Pueblo Nuevo,21+0000,73+0754,San José - Ye de Arjona (*),4.03,6.13,7.06,30.35,5.98,0,0,0,0,0,53.54,0,,53.54,53.55,53.55,0,0,53.55
+CESAR,43,43CS02,Arjona - El Paso - Cuatro Vientos,0+0000,31+0860,Ye de Arjona - Cuatrovientos,0,3,8.03,20.7,0,0,0,0,0,0,31.73,0,,31.73,31.72,31.72,0,0,31.72
+CESAR,45,4515,La Mata - San Roque,0+0000,86+1702,La Mata - San Roque,33.63,80.56,12.99,1.8,0,0,0,0,0,0,128.98,0,,128.98,87.71,45.65,41.18,42.15,87.798
+CESAR,45,45CS09,Cuatro Vientos - Codazzi,0+0000,64+0011,Cuatro Vientos - Codazzi,0,3.3,5.7,17.21,10,0,0,1,23.9,3.3,36.21,28.2,,64.41,64.41,64.41,0,0,64.41
+CESAR,49,4901,San Roque - La Paz,0+0000,140+0000,San Roque - La Paz (*),28.94,46.95,49.92,15.8,0,0,0,0,0,0,141.62,0,,141.62,139.92,133.61,4,4,137.61
+CESAR,49,4902,La Paz - Tamarrazón,0+0000,6+0199,La Paz - Rio Pereira (*),4,1,1.22,0,0,0,0,0,0,0,6.22,0,,6.22,6.18,5.94,0.28,0.28,6.22
+CESAR,78,7806,El Banco - El Burro,28+0000,45+0064,Tamalameque - El Burro,9.1,7.87,0,0,0,0,0,0,0,0.19,16.96,0.19,,17.15,17.15,17,0,0,17
+CESAR,80,8004,Valledupar - Manaure,0+0000,13+0368,Valledupar - La Paz,8.39,0,2,3,0,0,0,0,0,0,13.39,0,,13.39,13.49,13.39,0,0,13.39
+CESAR,80,8004A,Valledupar - San Jaun del Cesar,0+0000,33+0000,Valledupar - Badillo,0,6.02,11.89,15,0,0,0,0,0,0,32.9,0,,32.9,32.54,32.9,0,0,32.9
+CHOCÓ,13,1307,Nóvita - Las Animas - Quibdó,43+0000,55+0000,Las Animas - Certeguí,0,11.33,0,0,0,0,0,0,0,0,11.33,0,,11.33,11.33,11.33,0,0,11.329
+CHOCÓ,13,1307,Nóvita - Las Animas - Quibdó,55+0000,100+0000,Certeguí - Quibdó,2.17,5.6,35.33,0,0,0,0,0,0,0,43.1,0,,43.1,43.34,43.1,0,0,43.1
+CHOCÓ,50,5001,Nuquí - La Ye (Las Animas),60+0000,130+0000,Río Pató (El Afirmado) - La Ye (Las Animas),0,0,0,0,0,0,0,36.57,11.92,20.45,0,68.93,,68.93,68.93,68.93,0,0,68.934
+CHOCÓ,50,5002,Las Animas - Santa Cecilia,0+0000,50+0000,Las Animas - Mumbú,12.73,34.72,0,0,0,0,0,0.44,0,0,47.46,0.44,,47.9,48.71,47.9,0,0,47.9
+CHOCÓ,60,6002,Quibdó - La Mansa,0+0000,114+0984,Quibdó - La Mansa,20.81,29.13,15.66,3.78,0,0,0,15.42,22.11,0,69.38,37.54,,106.92,106.61,107.05,0,0,107.046
+CÓRDOBA,21,2103,Montería - Lorica,6+0942,10+0764,Paso Nacional por Cereté,0.05,0.76,2.84,0.21,0,0,0,0,0,0,3.86,0,,3.86,3.75,3.48,0.17,0.21,3.687
+CÓRDOBA,21,2103,Montería - Lorica,48+0222,49+1360,Paso Nacional por Lorica,0,0,2.11,0,0,0,0,0,0,0,2.11,0,,2.11,2.12,2.11,0,0,2.113
+CÓRDOBA,25,2513,Caucasia - Planeta Rica,0+0000,2+0780,Paso Nacional por Caucasia,0,0,1.78,1.02,0,0,0,0,0,0,2.79,0,,2.79,2.79,2.79,0,0,2.79
+CÓRDOBA,25,2513,Caucasia - Planeta Rica,18+0876,19+0546,Puente San Jorge Antiguo y Accesos,0,0.55,0.23,0,0,0,0,0,0,0,0.78,0,,0.78,0.78,0.78,0,0,0.78
+CÓRDOBA,25,2513,Caucasia - Planeta Rica,62+0000,66+0874,Paso Nacional por Planeta Rica,0,0,3,1.9,0,0,0,0,0,0,4.9,0,,4.9,4.89,4.9,0,0,4.897
+CÓRDOBA,25,2514,Planeta Rica - Chinú - Sincelejo,0+0000,52+0000,Planeta Rica - La Ye,2.07,12.82,27.38,9.93,0,0,0,0,0,0,52.2,0,,52.2,51.85,52.2,0,0,52.197
+CÓRDOBA,74,7401,Puerto Rey - Monteria,63+0340,64+0000,Puente Rojas Pinilla,0,0,0.32,0,0,0,0,0,0,0,0.32,0,,0.32,0.43,0.43,0,0,0.43
+CÓRDOBA,74,7403,El Viajano - Guayepo,0+0000,49+0904,El Viajano - San Marcos,41.87,5.97,1.85,0,0,0,0,0,0,0,49.69,0,,49.69,49.19,49.69,0,0,49.688
+CÓRDOBA,74,74CR02,Santa Lucía - Moñitos,0+0000,55+0000,Santa Lucía - Moñitos,5.46,2.49,1,0,0,2.44,13.65,13.01,16.92,0,8.96,46.03,,54.98,54.93,54.93,0,0,54.929
+CÓRDOBA,78,7801,Lorica - Chinú,0+0000,52+0000,Lorica - Chinú,0,2,6.02,43.23,0,0,0,0,0,0,51.26,0,,51.26,51.14,51.14,0,0,51.135
+CÓRDOBA,90,9002,Necoclí - Puerto Rey,82+0049,86+0858,Arboletes - Puerto Rey,0.86,3,1,0,0,0,0,0,0,0,4.86,0,,4.86,4.87,4.87,0,0,4.868
+CÓRDOBA,90,9003,Puerto Rey - Moñitos - Lorica,0+0000,49+0000,Moñitos - Lorica,1.01,2,18.09,28.1,0,0,0,0,0,0,49.21,0,,49.21,48.21,48.21,0,0,48.206
+CÓRDOBA,90,9004,Lorica - San Onofre,0+0000,5+0850,Paso Nacional por Lorica,0,0,0,5.75,0,0,0,0,0,0,5.75,0,,5.75,5.77,5.75,0,0,5.75
+CÓRDOBA,90,9004,Lorica - San Onofre,23+0300,30+0000,Paso Nacional por Coveñas,0,3.62,2.74,0,0,0,0,0,0,0,6.36,0,,6.36,6.35,6.35,0,0,6.35
+CUNDINAMARCA,40,40CN01,El Portal - El Antojo,0+0000,11+0150,El Portal - El Antojo,0,0,5.91,5.04,0,0,0,0,0,0,10.95,0,,10.95,10.95,10.95,0,0,10.95
+CUNDINAMARCA,40,40CNA,Paso Nacional por Chipaque,0+0000,0+0750,Paso Nacional por Chipaque,0,0,0.75,0,0,0,0,0,0,0,0.75,0,,0.75,0.75,0.75,0,0,0.75
+CUNDINAMARCA,40,40CNB,Paso Nacional por Cáqueza,28+0800,40+0400,Puente Real - Cáqueza - El Tablón,0,0,2,10.12,0,0,0,0,0,0,12.12,0,,12.12,11.5,12.12,0,0,12.12
+CUNDINAMARCA,40,40CN07,Perimetral de la Sabana,0+0000,13+0500,Chusacá - Canoas - Río Bogotá,0,12.74,0,0,0,0,0,0,0,0,12.74,0,,12.74,13.53,13.53,0,0,13.525
+CUNDINAMARCA,45A,45A04,Bogotá - Ubaté,11+0700,16+0100,Paso Nacional por Cajicá,0,1.3,3.1,0,0,0,0,0,0,0,4.4,0,,4.4,4.4,4.4,0,0,4.4
+CUNDINAMARCA,45A,45A04,Bogotá - Ubaté,25+0200,28+0200,Paso Nacional por Zipaquirá,0,0,3.75,0,0,0,0,0,0,0,3.75,0,,3.75,3,3.75,0,0,3.745
+CUNDINAMARCA,45A,45A04,Bogotá - Ubaté,28+0200,67+1134,Zipaquira - Ubate (*),5.97,31.7,9.02,0,0,0,0,0,0,0,46.69,0,,46.69,39.84,32.99,6.85,6.85,39.842
+CUNDINAMARCA,45A,45ACNB,Variante Portochuelo,3+0600,5+0160,Te de Portoachuelo - Cruce Nemocón,0.44,0.98,0.16,0,0,0,0,0,0,0,1.58,0,,1.58,1.58,1.58,0,0,1.576
+CUNDINAMARCA,45A,45ACND,Variante de Portochuelo - Casablanca,0+0250,7+0000,Variante de Portochuelo - Casablanca,0,4.74,1.68,0,0,0,0,0,0,0,6.42,0,,6.42,6.41,6.41,0,0,6.414
+CUNDINAMARCA,50,5008,Honda - Villeta - Tobiagrande - Bogotá,5+0850,64+0000,Río Seco - Villeta,0,8.15,10.18,40.59,0,0,0,0,0,0,58.92,0,,58.92,58.16,58.92,0,0,58.917
+CUNDINAMARCA,50,5009,Bogotá (Los Patios) - Gachetá,35+0000,35+0500,Paso Nacional por Guasca,0,0,0.5,0,0,0,0,0,0,0,0.5,0,,0.5,0.5,0.5,0,0,0.5
+CUNDINAMARCA,50,5008A,Villeta - Los Alpes - Bogotá,58+0920,63+0950,Paso Nacional por Madrid (*),0,0,0,6.07,0,0,0,0,0,0,6.07,0,,6.07,5.03,6.07,0,0,6.07
+CUNDINAMARCA,50,5008B1,Puerto Salgar - Tobiagrande,2+0600,5+0100,Cruce Quebrada Negra - Salida Túnel de la Abuela,0,0,0,0,0,0,0,0,2.5,0,0,2.5,,2.5,2.2,2.2,0,0,2.2
+CUNDINAMARCA,50,5008B1,Puerto Salgar - Tobiagrande,0+0000,2+0000,El Curapo - Cruce Quebrada Negra,0,0,0,0,0,0,0,2,0,0,0,2,,2,2.3,2,0,0,2
+CUNDINAMARCA,50,50CN01,Guaduas - Caparrapí - La Aguada (Cruce Tramo 5008B),0+0000,14+0000,Dindal - Caparrapí,0,3.07,11,0,0,0,0,0,0,0,14.07,0,,14.07,14,14,0,0,14
+CUNDINAMARCA,50,50CN01,Guaduas - Caparrapí - La Aguada (Cruce Tramo 5008B),19+0000,35+0490,Caparrapí - La Aguada,0,0,0,0,0,0,0,15.1,2,0,0,17.09,,17.09,17.06,17.06,0,0,17.058
+CUNDINAMARCA,50,50CN03,Cruce Ruta 50 (El Salitre) - Cruce Ruta 55 (Briceño),10+0505,14+0500,Sopó - Cruce Ruta 55 (Briceño),0,1.46,2.54,0,0,0,0,0,0,0,4,0,,4,4,4,0,0,4
+CUNDINAMARCA,55,5501,Bogotá - Tunja,21+1118,25+0964,Paso Nacional por Tocancipa,0,5.4,0,0,0,0,0,0,0,0,5.4,0,,5.4,5.4,5.4,0,0,5.401
+CUNDINAMARCA,56,5604,Puerto Salgar - Yacopí - La Palma,0+0000,19+0500,Yacopí - La Palma,0,0,15.4,1.37,0,0,0.58,0.27,2.03,0,16.77,2.88,,19.65,19.5,19.65,0,0,19.653
+CUNDINAMARCA,56,5604,Puerto Salgar - Yacopí - La Palma,21+0500,24+0500,Yacopí - La Palma,0,0,2.01,0.84,0,0,0,0,0,0,2.85,0,,2.85,3.01,2.85,0,0,2.85
+CUNDINAMARCA,56,5607,Chocontá - Guateque,0+0000,7+0146,Chocontá - Brisas,0,0,1.95,0,0,0,0,0,4.75,0,1.95,4.75,,6.7,6.7,6.7,0,0,6.7
+GUAJIRA,49,49GJB,Paso por San Juan del Cesar,0+0000,3+0000,Paso por San Juan del Cesar (*),0,1.53,0.97,0,0,0,0,0,0,0,2.51,0,,2.51,2.55,1.53,0,0.97,2.507
+GUAJIRA,49,4902,La Paz - Tamarrazón,6+0199,75+0237,Rio Pereira - Buenavista,3.07,41.23,16.9,8.95,0,0,0,0,0,0,70.15,0,,70.15,71.23,70.15,0,0,70.15
+GUAJIRA,80,8004A,Valledupar - San Juan del Cesar,33+0000,52+0530,Badillo - San Juan del Cesar,0,13.67,1.97,2.96,0,0,0,0,0,0,18.6,0,,18.6,19.06,18.59,0,0,18.59
+GUAJIRA,88,8801,Buenavista - Maicao,0+0000,55+0215,Buenavista - Cuestecitas,30.35,16.12,6.92,1,0,0,0,0,0,0,54.38,0,,54.38,57.21,54.38,1.64,1.64,56.023
+GUAJIRA,88,8801,Buenavista - Maicao,55+0215,66+0300,Cuestecitas - Paradero,0,0,0,0,0,0,6.71,3.55,0,0,0,10.26,,10.26,10.7,10.26,0,0,10.263
+GUAJIRA,88,88GJ02,Acceso a Albania,0+0000,3+0000,Acceso a Albania,1.02,2.08,0,0,0,0,0,0,0,0,3.11,0,,3.11,2.76,3.11,0,0,3.11
+HUILA,20,2002,Popayán - La Portada,67+0370,125+0700,Río Mazamorras - Sombrerillos,10.3,3.77,15.47,7.76,0,0,0,0,20.49,0,37.29,20.49,,57.78,57.41,57.8,0,0,57.8
+HUILA,20,2003,Altamira - Gabinete - Florencia,0+0000,38+0000,Altamira - Gabinete,0,2.07,3,5.02,0,0,0,0,27.45,0,10.09,27.45,,37.54,37.55,37.54,0,0,37.538
+HUILA,20,2003A,Orrapihuasi - Depresión El Vergel - Florencia,0+0000,41+0742,Orrapihuasi - Depresión El Vergel,6.88,14.08,5.81,15.02,0,0,0,0,0,0,41.78,0,,41.78,41.8,41.78,0,0,41.783
+HUILA,24,2402,Candelaria - Laberinto,0+0000,100+0368,Candelaria - Laberinto (*),17.83,29.11,14.33,3.63,0,0,23.52,12.97,0,0,64.9,36.49,,101.39,101.85,100.23,1.16,1.16,101.39
+HUILA,24,24HL01,Puerto Nolasco - Nátaga,0+0000,12+0000,Puerto Nolasco - Nátaga,0,3.8,7.84,0,0,0,0,0,0,0,11.64,0,,11.64,11.72,11.64,0,0,11.64
+HUILA,24,24HL02,Acceso a Itaibe,0+0000,5+0000,Acceso a Itaibe (Cruce Ruta 24 - Itaibe),0,5.15,0,0,0,0,0,0.96,4.18,0,5.15,5.14,,10.29,5.19,5.15,0,0,5.15
+HUILA,24,24HL03,Cruce Ruta 24 - Tesalia,0+0000,3+0100,Cruce Ruta 24 - Tesalia,0,3,0.1,0,0,0,0,0,0,0,3.1,0,,3.1,3.07,3.09,0,0,3.09
+HUILA,30,3001,Neiva - Balsillas,0+0000,54+0000,Neiva - Balsillas,0,3,6.5,1,0,0,0,17.05,26.45,0,10.5,43.5,,54,54,54,0,0,54
+HUILA,30,3002,Balsillas - Mina Blanca,0+0000,57+0500,Balsillas - Santo  Domingo,0,0,0.25,1.52,0,0,0,56.46,0,0,1.77,56.46,,58.23,58.23,58.23,0,0,58.228
+HUILA,37,3701,Garzón - La Plata - Guadualejo,55+0350,77+0000,La Plata - Puerto Valencia,0,16.94,3.91,0,0,0,0,0.48,0,0,20.85,0.48,,21.33,21.46,21.33,0,0,21.327
+HUILA,43,4301,Paicol - Tesalia - Teruel - Palermo,0+0000,49+0500,Cruce Tesalia - Teruel (*),0,12.32,13.49,1.26,0.97,0,0,17.45,5.87,0,28.04,23.31,,51.35,51.46,51.35,0.06,0.06,51.41
+HUILA,45,4503,Mocoa - Pitalito,131+0680,134+0610,Paso Nacional por Pitalito (*),0,0,0,4.79,0,0,0,0,0,0,4.79,0,,4.79,2.7,0.61,2.09,2.09,2.7
+HUILA,45,4504,Pitalito - Garzón,0+0000,2+0180,Paso Nacional por Pitalito,0,0,0,2.2,0,0,0,0,0,0,2.2,0,,2.2,2.2,2.2,0,0,2.197
+HUILA,45,4504,Pitalito - Garzón,70+0165,71+0697,Paso Nacional por Garzón (*),0,0,2.61,0,0,0,0,0,0,0,2.61,0,,2.61,1.54,0.47,1.07,1.07,1.544
+HUILA,45,4505,Garzón - Neiva,0+0000,1+1030,Paso Nacional por Garzón (*),0,0,2.13,0,0,0,0,0,0,0,2.13,0,,2.13,1.99,1.85,0.14,0.14,1.989
+HUILA,45,4506,Neiva - Castilla,83+0100,86+0400,Paso Nacional por Natagaima,0,1,0,2.3,0,0,0,0,0,0,3.3,0,,3.3,3.3,3.3,0,0,3.3
+HUILA,45,45HL01,Hobo -Yaguará,1+0350,23+0150,Hobo - Yaguará (Inspección de Letrán),0,0.15,1,20.65,0,0,0,0,0,0,21.8,0,,21.8,21.8,21.8,0,0,21.8
+MAGDALENA,27,2701,Plato -  Salamina,0+0000,102+0000,Plato - Salamina,1,0.1,0,5.48,9.93,0,0,17.02,32.23,36.82,16.52,86.06,,102.58,102.91,102.58,0,0,102.58
+MAGDALENA,43,4313,El Banco - Arjona - Pueblo Nuevo,0+0000,21+0000,El Banco - San José,0,0,17.1,1.95,1.89,0,0,0,0,0,20.94,0,,20.94,20.57,20.94,0,0,20.94
+MAGDALENA,45,4518,Río Ariguaní - Ye de Ciénaga,35+0725,46+0764,Paso Nacional por Aracataca,0,7.75,0.97,0,2.32,0,0,0,0,0,11.04,0,,11.04,11.08,11.03,0,0,11.03
+MAGDALENA,45,4518,Río Ariguaní - Ye de Ciénaga,98+0000,100+0289,Ye de Ciénaga (Lado Manantial) - Intersección Ruta 90,0,2.29,0,0,0,0,0,0,0,0,2.29,0,,2.29,2.29,2.29,0,0,2.29
+MAGDALENA,78,7805,Guamal - El Banco,0+0000,36+0320,Guamal - El Banco,0,31.63,0,0.76,0.33,0,0,1,2.43,0,32.72,3.43,,36.15,36.15,36.15,0,0,36.15
+MAGDALENA,80,80MG01,Santa Ana - La Gloria,0+0000,67+0650,Santa Ana - La Gloria,38.58,28.95,0,0,0,0,0,0,0,0,67.53,0,,67.53,67.53,67.53,0,0,67.53
+MAGDALENA,90,9007A,Cruce Tramo 9007 - Puerto de Santa Marta,0+0000,7+0420,Mamatoco - Terminal Marítimo,0,5.17,2.25,0,0,0,0,0,0,0,7.42,0,,7.42,7.43,7.43,0,0,7.43
+META,40,4015,Cruce Ruta 40 - La Arepa - Juriepe - Puerto Carreño,0+0000,96+0140,Juriepe - Puerto Carreño,0,27.7,5.01,0,0,1.95,38.63,17.44,2.95,0,32.72,60.97,,93.69,96.14,93.69,0,0,93.69
+META,40,4010,Puente Arimena - El Porvenir,0+0000,40+0820,Puente Arimena - La Arepa,0.8,0,0,0,0,0,0.97,11.34,27.95,0,0.8,40.26,,41.06,39.79,41.06,0,0,41.06
+META,40,40MT01,Ramal Cruce Ruta 40 (Cruce Ruta a La Arepa) - El Porvenir,0+0000,7+0968,Ramal Cruce Ruta 40 (Cruce Ruta a La Arepa) - El Porvenir,0,0,0,0,0,0,0,0,7.38,0,0,7.38,,7.38,7.07,7.38,0,0,7.38
+META,40,40MTA,Pipiral - Villavicencio (Vía Antigua),80+0000,94+0583,Pipiral - Villavicencio (Vía Antigua),1,5.59,5.87,1.97,0,0,0,0,0,0,14.43,0,,14.43,14.44,14.45,0,0,14.45
+META,65,6507,San José del Guaviare - Cruce Puerto Rico,0+0000,102+0600,San José del Guaviare - Cruce Puerto Rico,39.41,16.93,42.95,2.03,0,0,0,0,0,0,101.32,0,,101.32,101.87,101.32,0,0,101.32
+META,65,6508,Cruce Puerto Rico - Ye de Granada,0+0000,103+0938,Cruce Puerto Rico - Granada (*),0,55.46,48.37,3.96,0,0,0,0,0,0,107.79,0,,107.79,102.5,100.09,3.85,3.85,103.94
+META,65,6509,Ye de Granada - Villavicencio,57+0352,58+0564,Paso Antiguo por el Río Guayuriba,0,0.65,0,0.56,0,0,0,0,0,0,1.21,0,,1.21,1.21,1.21,0,0,1.212
+META,65,65A02,La Uribe - Ye de Granada,0+0000,109+0821,La Uribe - Ye de Granada,4.82,43.38,11.57,0,0.88,2.1,0,24.54,23.81,0,60.65,50.45,,111.1,109.23,111.1,0,0,111.1
+META,65,65AMTA,Paso por Puerto Caldas,0+0000,3+0900,Paso por Puerto Caldas,0,1.8,2.3,0,0,0,0,0,0,0,4.1,0,,4.1,3.9,4.1,0,0,4.1
+META,65,65AMTB,Accesos al Puente Guillermo León Valencia,0+0000,2+0840,Accesos al Puente Guillermo León Valencia,0,2.84,0,0,0,0,0,0,0,0,2.84,0,,2.84,2.84,2.84,0,0,2.84
+META,65,65AMTC,Acceso a Granada,0+0000,1+0300,Acceso a Granada,0,0,1.3,0,0,0,0,0,0,0,1.3,0,,1.3,1.3,1.3,0,0,1.3
+META,65,65MTA,Paso por Puerto Lleras,0+0000,14+0000,Paso por Puerto Lleras,0,1.02,0.16,0.04,0,0,0,12.86,0,0,1.22,12.86,,14.08,14,14,0,0,14
+META,65,65MTB,Paso por Puerto Limón,0+0000,1+0800,Paso por Puerto Limón,0,0.9,0,0,0,0,0,0,0,0,0.9,0,,0.9,1.8,0.9,0,0,0.9
+META,65,65MTC,Paso por Puerto Santander,0+0000,3+0100,Paso por Puerto Santander,0,0,0,0.8,0,0,0,0,0,0,0.8,0,,0.8,3.1,0.8,0,0,0.8
+META,65,65MTD,Paso por  Puerto Aljure,0+0000,3+0900,Paso por  Puerto Aljure,0,4.38,0,0,0,0,0,0,0,0,4.38,0,,4.38,3.9,4.38,0,0,4.38
+META,65,65MTE,Puente Guatiquía - Los Caballos,0+0000,4+0000,Puente Guatiquía - Los Caballos,0,0.76,1.95,0.92,0,0,0,0,0,0,3.63,0,,3.63,3.8,3.63,0,0,3.63
+META,75,7506,Calamar - San José del Guaviare,0+0000,73+0600,Calamar - San José del Guaviare (*),0,11.9,1.14,1.56,0,0,6.03,37.27,17,0,14.59,60.29,,74.88,71.89,72.09,1.4,1.4,73.49
+NARIÑO,05,0501,La Espriella - Río Mira - Río Mataje,0+0000,10+0400,La Espriella  - Río Mataje,8.15,0,0,0,0,2.25,0,0,0,0,8.15,2.25,,10.4,10.01,10.4,0,0,10.4
+NARIÑO,08,0801,Guachucal - Ipiales,0+0000,24+0000,Guachucal - Ipiales,0,14.84,6.26,2.67,0,0,0,0,0,0,23.77,0,,23.77,23.8,23.77,0,0,23.77
+NARIÑO,10,1001,Tumaco - Junín,0+0000,119+0000,Tumaco - Junín,82.96,15.97,13.39,6.94,0,0,0,0,0,0,119.26,0,,119.26,118.36,119.26,0,0,119.26
+NARIÑO,10,1002,Junín - Pedregal,0+0000,95+0000,Junín - Túquerres,0,42.86,13.65,37.76,0.38,0,0,0,0,0,94.65,0,,94.65,94.37,94.65,0,0,94.65
+NARIÑO,10,1002,Junín - Pedregal,95+0000,127+0600,Túquerres - Pedregal,27.32,3.22,1.95,0,0,0,0,0,0,0,32.49,0,,32.49,32.49,32.49,0,0,32.492
+NARIÑO,10,1003,Pasto - El Pepino,5+0000,33+0000,Pasto - La Piscicultura,0,19.25,8.03,0.93,0,0,0,0,0,0,28.21,0,,28.21,28.2,28.2,0,0,28.2
+NARIÑO,17,1701,Chiles - Guachucal - El Espino,28+0900,40+0200,Guachucal - El Espino,0,2.52,4.78,4,0,0,0,0,0,0,11.3,0,,11.3,11.3,11.3,0,0,11.3
+NARIÑO,17,1702,Túquerres - Samaniego - Sotomayor,0+0000,44+0000,Túquerres - Samaniego,11.79,18.64,7.97,4.97,0,0,0,0,0,0,43.37,0,,43.37,43.37,43.37,0,0,43.369
+NARIÑO,25,25NR01,Ipiales - Las Lajas - Potosí - Las Delicias,0+0000,5+0870,Ipiales - Las Lajas,0,5.5,0,0.37,0,0,0,0,0,0,5.87,0,,5.87,5.87,5.87,0,0,5.87
+NARIÑO,25,25NRB,Variante de Daza,0+0000,3+0599,Variante de Daza,0,0,0,3.59,0,0,0,0,0,0,3.59,0,,3.59,3.59,3.59,0,0,3.59
+NARIÑO,25,25NRD,Variante Oriental de Pasto,0+0440,21+0170,Variante Oriental de Pasto (*),0,23.68,4,0,0,0,0,0,0,0,27.68,0,,27.68,21.26,22.44,2.62,2.62,25.06
+NARIÑO,25,25NR04,Accesos Aeropuerto de Pasto,0+0000,0+0700,Accesos Aeropuerto de Pasto,0.18,0.6,0.02,0,0,0,0,0,0,0,0.8,0,,0.8,0.7,0.8,0,0,0.8
+NARIÑO,25,2501A,Pasto - Buesaco - Mojarras,2+0000,102+0000,Pasto - Higuerones,15.52,36.66,23.5,12.36,0,0,0,0,1.31,10.35,88.04,11.66,,99.7,99.97,99.7,0,0,99.702
+NARIÑO,25,2501B,Cebadal - Sandoná - Pasto,0+0000,60+0000,Cebadal - Santa Bárbara,20.46,38.56,0.5,0,0,0,0,0,1.05,0,59.52,1.05,,60.57,60.4,60.58,0,0,60.575
+NARIÑO,25,2501B,Cebadal - Sandoná - Pasto,60+0000,91+0000,Santa Bárbara - Pasto,0,9.25,21.8,0,0,0,0,0,0,0,31.05,0,,31.05,31.05,31.05,0,0,31.054
+NARIÑO,25,2502,San Juan de Pasto - Mojarras,5+0000,124+0599,San Juan de Pasto - Mojarras (*),2.86,68.73,36.48,14.42,0,0,0,0,0,0,122.49,0,,122.49,122.49,118.48,2.01,2.01,120.485
+NARIÑO,25,25NRE,Pasto Cano,0+0000,6+0000,Par Vial Alto de Daza,0,0,0,5,0,0,0,0,0,0,5,0,,5,6,5,0,0,5
+NORTE DE SANTANDER,55,5505,Presidente - Pamplona - Cúcuta,0+0000,68+0500,Presidente - Pamplona (*),0,10.83,23.8,34.11,0,0,0,0,0,0,68.74,0,,68.74,68.74,68.74,,,68.74
+NORTE DE SANTANDER,55,5505,Presidente - Pamplona - Cúcuta,131+0500,140+0000,Betania - Cúcuta (*),0,16.9,0,0,0,0,0,0,0,0,16.9,0,,16.9,8.45,0,8.45,8.45,8.45
+NORTE DE SANTANDER,55,5507,Cúcuta  - Puerto Santander - Puente Internacional Pedro de Hevia (La Unión),2+0900,53+0758,PR 2+0900 (Nueva Terminal de Cúcuta) - Puente Internacional Pedro de Hevia,0,3.77,7.03,39.97,0,0,0,0,0,0,50.76,0,,50.76,50.76,50.76,0,0,50.76
+NORTE DE SANTANDER,55,5507,Cúcuta  - Puerto Santander - Puente Internacional Pedro de Hevia (La Unión),0+0000,2+0900,Cúcuta - (Nueva Terminal de Cúcuta),0,2.94,0,0,0,0,0,0,0,0,2.94,0,,2.94,2.94,2.94,0,0,2.94
+NORTE DE SANTANDER,55,,,,,Anillo Vial Occidental,0,21.84,0,0,0,0,0,0,0,0,21.84,0,,21.84,21.84,21.84,0,0,21.84
+NORTE DE SANTANDER,55,55NS08,Cúcuta - San Cayetano - Cornejo,25+0000,33+0000,San Cayetano - Cornejo,0,8.05,0,0,0,0,0,0,0,0,8.05,0,,8.05,8.05,8.05,0,0,8.052
+NORTE DE SANTANDER,55,55NS09,Cúcuta - Dos Ríos - San Faustino - La China,0+0000,29+0660,Cúcuta - Dos Ríos - San Faustino - La China,0,1.97,0,26.24,0,0,0,0,0,0.66,28.2,0.66,,28.86,28.87,28.86,0,0,28.86
+NORTE DE SANTANDER,55,55NSA,Anillo Vial de Cúcuta,0+0000,18+0260,Anillo Vial de Cúcuta (*),0,2.03,16.02,18.3,0,0,0,0,0,0,36.35,0,,36.35,18.18,0,18.15,18.2,18.202
+NORTE DE SANTANDER,66,6604,La Lejía - Saravena,0+0000,150+0000,La Lejía - Saravena,17.44,12.94,11.51,1.2,0,0,0,72.4,34.76,0,43.08,107.16,,150.24,150.4,150.24,0,0,150.241
+NORTE DE SANTANDER,70,7008,Ocaña - Sardinata,69+0000,128+0000,Alto El Pozo - Sardinata,0,4,42.85,6.2,0,0,0,0,0,5.34,53.05,5.34,,58.39,58.39,58.39,0,0,58.385
+NORTE DE SANTANDER,70,7009,Sardinata - Astilleros - Cúcuta,0+0000,57+0600,Sardinata - El Zulia,0,24.06,29.64,4.04,0,0,0,0,0,0,57.73,0,,57.73,57.73,57.73,0,0,57.734
+NORTE DE SANTANDER,70,7009,Sardinata - Astilleros - Cúcuta,57+0600,66+0000,El Zulia - Cúcuta,0,9.15,0,0,0,0,0,0,0,0,9.15,0,,9.15,9.15,9.15,0,0,9.15
+NORTE DE SANTANDER,70,7009A,Sardinata - Puente Gómez - Cornejo - Zulia,70+0000,75+0000,Cornejo - El Zulia,0,4.89,0,0,0,0,0,0,0,0,4.89,0,,4.89,4.89,4.89,0,0,4.886
+NORTE DE SANTANDER,70,7010,Cúcuta - Puente Internacional Simón Bolívar,0+0000,8+0600,Cúcuta - Puente Internacional Simón Bolívar,0,17.54,0,0,0,0,0,0,0,0,17.54,0,,17.54,8.77,0,8.77,8.77,8.77
+NORTE DE SANTANDER,70,70NSA,Variante de Sardinata,0+0000,5+0000,Variante de Sardinata,0,0,4.35,1,0,0,0,0,0,0,5.35,0,,5.35,5.35,5.35,0,0,5.351
+NORTE DE SANTANDER,70,70NSB,Paso Nacional por Zulia,0+0000,1+0000,Paso Nacional por Zulia (3),,,,,,,,,,,0,0,,0,1,,,,0
+NORTE DE SANTANDER,70,70NS06_1,Cucuta - Puente Binacional Tienditas,0+0000,1+0272,Cucuta - Puente Binacional Tienditas (*),2.54,0,0,0,0,0,0,0,0,0,2.54,0,,2.54,1.27,0,1.27,1.27,1.27
+PUTUMAYO,10,1003,Pasto - El Encano - El Pepino,33+0000,137+0700,La Piscicultura - El Pepino,2.01,35.24,2.58,1.38,0,0,2.92,29.74,31.45,0,41.21,64.11,,105.32,105.32,105.32,0,0,105.32
+PUTUMAYO,45,4501,Puente Internacional San Miguel - Santa Ana,0+0000,109+0000,Puente Internacional San Miguel - Santa Ana (*),95.73,2.47,0.95,0,0,0,0.19,2.29,1.8,0,99.14,4.28,,103.43,109,100.22,1.6,1.6,101.822
+PUTUMAYO,45,4502,Santa Ana - Mocoa,60+0300,77+1000,Canangucho - Mocoa,0,7.99,2.22,0.8,0,0,6.88,0,0,0,11.01,6.88,,17.89,19.2,17.89,0,0,17.89
+PUTUMAYO,45,4503,Mocoa - Pitalito,0+0000,1+0600,Paso Nacional por Mocoa (*),0,0.62,0,2.67,0,0,0,0,0,0,3.29,0,,3.29,2.74,0,1.65,1.65,1.645
+PUTUMAYO,65,6501,Villagarzón - San José del Fragua,3+0000,55+0600,Villagarzón - Puerto Bello,0,0,0,0,0,0,0,11.23,42.54,0,0,53.77,,53.77,53.23,53.77,0,0,53.773
+PUTUMAYO,65,65PTA,Variante de Jardín,0+0000,4+0190,Variante de Jardín (3),,,,,,,,,,,,,,0,3.9,,,,0
+QUINDÍO,25,25VL07,Cartago - Alcalá,0+0000,20+0100,Cartago - Alcalá,0,1.1,18,1,0,0,0,0,0,0,20.1,0,,20.1,20.1,20.1,0,0,20.1
+QUINDÍO,29,2901B,Armenia - Alcalá - Pereira,0+0000,23+0325,Armenia - Montenegro - Alcalá (*),1,4,17.33,1,0,0,0,0,0,0,23.33,0,,23.33,23.33,23.54,0.11,0.11,23.653
+QUINDÍO,29,29VLA,Variante de Alcalá y Accesos,0+0000,1+0200,Variante de Alcalá y Accesos,0,1.2,0,0,0,0,0,0,0,0,1.2,0,,1.2,1.1,1.1,0,0,1.1
+QUINDÍO,40,4002,La Paila - Armenia,41+0760,50+0250,Club Campestre - Armenia,8.49,0,0,0,0,0,0,0,0,0,8.49,0,,8.49,8.52,8.49,0,0,8.49
+QUINDÍO,40,4003,Armenia - Ibagué,0+0000,49+0800,Armenia - La Línea (*),30.5,15.37,4.76,0,0,0,0,0,0,0,50.63,0,,50.63,49.41,42.11,3.92,4.31,46.42
+QUINDÍO,40,40QN04,La Española - Armenia,2+0300,4+0000,La Española - Armenia,0,1.7,0,0,0,0,0,0,0,0,1.7,0,,1.7,1.7,1.7,0,0,1.702
+QUINDÍO,40,40QN05,Variante Calarcá - Circasia,0+0000,7+0260,Calarcá - La Cabaña,0,7,0.26,0,0,0,0,0,0,0,7.26,0,,7.26,7.26,7.19,0,0,7.19
+RISARALDA,23,2302,Mediacanoa - La Unión - La Virginia,123+0200,142+0320,Ansermanuevo - La Virginia,13.9,4.98,0,0,0,0,0,0,0,0,18.89,0,,18.89,18.92,18.89,0,0,18.89
+RISARALDA,25,2506,La Victoria - Cerritos,79+0578,87+0725,Cartago - Cerritos (*),0,0,12.51,4,0,0,0,0,0,0,16.51,0,,16.51,5.76,0.3,0,0,0.3
+RISARALDA,25,2507,Cerritos - Cauyá,0+0000,0+0300,Cerritos,0,0,0,0.3,0,0,0,0,0,0,0.3,0,,0.3,0.3,0.3,0,0,0.3
+RISARALDA,25,2507,Cerritos - Cauyá,0+0300,10+0545,Cerritos - La Virginia,0,4,6.72,0,0,0,0,0,0,0,10.72,0,,10.72,10.32,10.72,0,0,10.72
+RISARALDA,25,2507,Cerritos - Cauyá,37+0180,55+0541,Remolinos - Cauyá,0,3.8,8.39,5.89,0,0,0,0,0,0,18.07,0,,18.07,18.23,18.07,0,0,18.07
+RISARALDA,25,25RSA,Paso Nacional por La Virginia,0+0000,4+0455,Paso Nacional por La Virginia,0,0.79,4.12,0,0,0,0,0,0,0,4.91,0,,4.91,4.9,4.91,0,0,4.91
+RISARALDA,29,2902,Pereira - Manizales,0+0000,5+0800,Puente Mosquera - Cruce Avenida del Ferrocarril (*),0,5,5,1.6,0,0,0,0,0,0,11.6,0,,11.6,10.68,0.92,4.88,4.88,5.8
+RISARALDA,29,29RSA,Pereira - Dosquebradas,0+0000,1+0000,"Solución Vial Pereira - Dosquebradas (Incluye Viaducto, Accesos, Orejas y Empalme con Tramo 2902)",0,0.97,2.52,0.37,0,0,0,0,0,0,3.86,0,,3.86,5.7,3.86,1,1,4.86
+RISARALDA,29,29RSB,Variante de Galicia,0+0000,1+0710,Variante de Galicia,0,0,1.71,0,0,0,0,0,0,0,1.71,0,,1.71,1.72,1.71,0,0,1.71
+RISARALDA,29,29RSC,Variante El Pollo - Chinchiná,0+0000,13+0100,Intersección El Pollo - Intersección El Mandarino,0,5.03,7.02,1,0,0,0,0,0,0,13.05,0,,13.05,13.1,13.05,0,0,13.05
+RISARALDA,29,29RS01,Pereira - Cerritos,3+0883,11+0030,Pereira - Cerritos (*),0,9.95,4.12,0.06,0,0,0,0,0,0,14.13,0,,14.13,7.07,0,7.07,7.07,7.071
+RISARALDA,50,5002,Las Animas - Santa Cecilia,50+0000,73+0608,Mumbú - Santa Cecilia,0,16.99,2.01,0.45,0,0,0,0,3.85,0,19.45,3.85,,23.3,23.29,23.29,0,0,23.293
+RISARALDA,50,5003,Santa Cecilia - Asia,0+0000,72+0000,Santa Cecilia - Asia (*),0,17.95,13.58,11.35,0,0,0,13.05,12.61,2.98,42.88,28.64,,71.52,71.64,77.93,0.17,0.17,78.099
+RISARALDA,50,5003,Santa Cecilia - Asia,72+0000,78+0550,Santa Cecilia - Asia,0,0,3.29,0.08,0,0,0,2.97,0,0,3.37,2.97,,6.34,6.46,6.34,0,0,6.34
+RISARALDA,50,50RS01,Apía - La Virginia,0+0000,32+0443,Apía - La Virginia,0,25.59,5.42,0,0,0,0,1.4,0,0,31.01,1.4,,32.41,32.91,32.41,,,32.41
+SANTANDER,45,4511,Rio Ermitaño - La Lizama,0+0000,149+0484,Rio Ermitaño - La Lizama,32.9,48.06,11.59,0,0,0,0,0,0,0,92.55,0,,92.55,149.07,92.55,0,0,92.55
+SANTANDER,45,4513,La Lizama - San Alberto,0+0000,90+0748,La Lizama - San Alberto,76.89,38.94,10.65,0,0,0,0,0,0,0,126.48,0,,126.48,90.59,64.58,32.28,29.62,94.2
+SANTANDER,45A,45A06,Puente Nacional - San Gil,0+0000,125+0800,Puente Nacional - San Gil,0,47.29,59.43,17.97,0,0,0,0,0,0,124.69,0,,124.69,124.88,124.69,0,0,124.69
+SANTANDER,45A,45A07,San Gil - Bucaramanga,0+0000,93+0000,San Gil - Bucaramanga (*),0,33.98,59.82,8.03,0,0,0,0,0,0,101.83,0,,101.83,93.27,78.98,11.6,11.25,90.23
+SANTANDER,45A,45AST08,Floridablanca - Palenque - La Cemento,0+0000,10+0100,Floridablanca - Palenque (*),0,3.97,15.92,0,0,0,0,0,0,0,19.89,0,,19.89,10.02,0,10,10,10
+SANTANDER,45A,45A08,Bucaramanga - San Alberto,18+0000,93+0654,Río Negro - San Alberto (*),0,18.82,35.86,21.03,0,0,0,0,0,0,75.71,0,,75.71,75.1,74.37,0.45,0.69,75.057
+SANTANDER,55,5504,La Palmera - Presidente,0+0000,102+0211,La Palmera - Presidente (*),3.56,65.94,4.58,2.35,0,0,0,0.31,25.06,0,76.43,25.37,,101.8,101.91,98.36,1.72,1.72,100.081
+SANTANDER,55,55BY11,Santa Rosita - Onzaga,6+0953,32+0000,Limites Departamento de Boyacá - Onzaga,0,0,0,0,0,0,8.88,13.88,0,0,0,22.75,,22.75,23.22,22.75,0,0,22.754
+SANTANDER,55,55STA,Variante de Concepción,0+0000,2+0215,Variante de Concepción,0,0,0.13,2.09,0,0,0,0,0,0,2.22,0,,2.22,2.16,2.22,0,0,2.215
+SANTANDER,55,55ST02,Málaga - San Andrés - Los Curos,0+0000,124+0000,Málaga - Los Curos,4.94,27.09,16.54,1.91,6.64,0,0,0,40.69,25.01,57.12,65.7,,122.82,122.91,122.82,0,0,122.822
+SANTANDER,62,6206,Cisneros - Puerto Olaya - Cruce Ruta 45,98+0000,98+0140,Puente sobre el Río Magdalena - Cruce a Puerto Olaya,0.62,0,0,0,0,0,0,0,0,0,0.62,0,,0.62,0.14,0.62,0,0,0.62
+SANTANDER,62,6206,Cisneros - Puerto Olaya - Cruce Ruta 45,114+0049,114+0200,"Intersección, Puente, Orejas y Empalme con Ruta 45",0.62,0,0,0,0,0,0,0,0,0,0.62,0,,0.62,0.16,0.62,0,0,0.62
+SANTANDER,62,6207,Cruce Puerto Araujo - Landázuri,0+0000,61+1380,Cruce Puerto Araujo - Landázuri (*),1,47.73,7,2.97,2,0,0,0,0,1.48,60.7,1.48,,62.17,63.48,59.7,1,0,59.698
+SANTANDER,62,6208,Landázuri - Barbosa,0+0000,70+0674,Landázuri - Barbosa,0,1,26.47,32.81,7.02,0,0,0,1.66,0.62,67.3,2.28,,69.58,70.5,70.78,0,0,70.78
+SANTANDER,62,62STA,Variante de Barbosa,0+0000,1+0478,Variante de Barbosa (*),0,0,0,2,0,0,0,0,0,0,2,0,,2,1.53,1.42,0.06,0.06,1.475
+SANTANDER,64,6402,Zapatoca - Barichara - San Gil,55+0100,82+0430,Cruce a Guane - San Gil,0,14.06,10.53,3.01,0,0,0,0,0,0,27.59,0,,27.59,27.33,27.59,0,0,27.594
+SANTANDER,64,6403,Cruce Ruta 45A (San Gil) - Onzaga - Soatá,0+0000,78+0000,Cruce Ruta 45A (San Gil) - Onzaga,0,22.38,11.27,1.12,0,0,1,31.58,10.82,0,34.77,43.41,,78.17,77.41,78.17,0,0,78.17
+SANTANDER,64,64ST02,Ramal a Guane,0+0000,3+0385,Ramal a Guane,0,0,3.24,0,0,0,0,0,0,0,3.24,0,,3.24,3.39,3.24,0,0,3.237
+SUCRE,74,7404,Guayepo - Achí,0+0000,77+0350,Guayepo - Achí,30.54,18.53,28.97,13.02,0,0,0,0,0,0,91.06,0,,91.06,83,91.06,0,0,91.06
+SUCRE,74,74SCA,Variante de Majagual,0+0000,3+0024,Variante de Majagual,3.02,0,0,0,0,0,0,0,0,0,3.02,0,,3.02,3.02,3.02,0,0,3.02
+SUCRE,90,9004,Lorica - San Onofre,30+0000,41+0000,Coveñas - Cruce a Puerto Viejo,0,2.99,0,3,5,0,0,0,0,0,10.98,0,,10.98,10.98,10.98,0,0,10.984
+SUCRE,90,9004,Lorica - San Onofre,46+0100,49+0453,Paso Nacional por Tolú,0,0,0,1.28,1.91,0,0,0,0,0,3.19,0,,3.19,3.19,3.19,0,0,3.186
+SUCRE,90,9004,Lorica - San Onofre,65+0937,93+0683,Toluviejo - El Pueblito,0.68,0,1,18.98,8.04,0,0,0,0,0,28.7,0,,28.7,27.75,27.72,0,0,27.716
+SUCRE,90,90SC02,Coveñas - Sabaneta,0+0000,16+0000,Coveñas - Sabaneta,0.76,3.02,2.97,8.98,0,0,0,0,0,0,15.73,0,,15.73,15.73,15.73,0,0,15.732
+TOLIMA,36,3602,Chaparral - Ortega,1+0000,47+0514,Chaparral - Ortega,0.84,18.21,17.04,8.68,0,0,0,0,0,0,44.77,0,,44.77,44.77,44.78,0,0,44.78
+TOLIMA,36,3603,Ortega - Guamo,0+0000,36+0253,Ortega - Guamo,0,32.77,0,3,0,0,0,0,,0,35.77,0,,35.77,35.78,35.77,0,0,35.77
+TOLIMA,40,4003,Armenia - Ibagué,27+0000,49+0800,La Línea  - Cajamarca,,,,,,,,,,,0,0,,0,,22.53,0,0,22.53
+TOLIMA,40,40TL05,Cruce Ruta 40 - La Tambora (Espinal),0+0000,3+0224,Cruce Ruta 40 - La Tambora (Espinal),0,3.17,0,0,0,0,0,0,0,0,3.17,0,,3.17,3.17,317,0,0,317
+TOLIMA,45,4507,Castilla - Girardot,24+0060,27+1130,Paso Nacional por El Guamo,0,3.07,0.99,0,0,0,0,0,0,0,4.06,0,,4.06,4.06,4.06,0,0,4.06
+TOLIMA,45,4507,Castilla - Girardot,42+0300,45+0000,Paso Nacional por El Espinal (*),0,4.7,0,0,0,0,0,0,0,0,4.7,0,,4.7,4.56,4.7,1.08,1.08,5.78
+TOLIMA,50,4510,Honda - Río Ermitaño,33+0353,34+0000,Puente Puerto Salgar,0,0,0.05,0.64,0,0,0,0,0,0,0.69,0,,0.69,0.75,0.69,0,0,0.69
+TOLIMA,50,45CNA,Variante al poblado de Puerto Limon,0+0000,1+0375,Variante al poblado de Puerto Limon,0,2.18,0.24,0,0,0,0,0,0,0,2.42,0,,2.42,1.38,1.18,,1.24,2.42
+TOLIMA,50,4510,Honda - Río Ermitaño,34+0000,134+0456,Puerto Salgar - Rio Ermitaño,5.01,65.99,12.06,0,0,0,0,0,0,0,83.06,0,,83.06,100.46,17.03,83.05,82.9,99.93
+TOLIMA,50,5007,Fresno - Honda,0+0000,26+0695,Fresno - Mariquita,0,2.97,16.18,7.06,0,0,0,0,0,0,26.2,0,,26.2,26.81,26.2,0,0,26.2
+TOLIMA,50,5007,Fresno - Honda,46+0000,46+1150,Paso Nacional por Honda (Incluye el Puente Luis Ignacio Andrade) (*),0,0,0,1.16,0,0,0,0,0,0,1.16,0,,1.16,2.3,1.16,0,0,1.16
+VALLE DEL CAUCA,19,1901,Cali - Cruce Ruta 40 (Loboguerrero),8+0900,60+0850,Cali - Cruce Ruta 40 (Loboguerrero),23.76,26.64,1.02,0,0,0,0,0,0,0,51.42,0,,51.42,51.42,51.43,0,0,51.43
+VALLE DEL CAUCA,23,2301,Cali - Vijes - Mediacanoa,0+0000,12+0000,Cali - Yumbo (*),0,1.7,7.75,2.1,0,0,0,0,0,0,11.55,0,,11.55,12,0,11.5,11.5,11.5
+VALLE DEL CAUCA,23,2301,Cali - Vijes - Mediacanoa,12+0000,53+0522,Yumbo - Mediacanoa (*),12.16,29.9,5.75,0,0,0,0,0,0,0,47.81,0,,47.81,42,43.01,1.1,3.7,46.712
+VALLE DEL CAUCA,23,23VLB,Variante de Yotoco,0+0000,2+0729,Variante de Yotoco,0,0,2.75,0,0,0,0,0,0,0,2.75,0,,2.75,2.73,2.7,0,0,2.7
+VALLE DEL CAUCA,23,23VL01,Glorieta Cencar - Aeropuerto - Cruce Ruta 25,0+0000,15+0000,Glorieta Cencar - Aeropuerto - Cruce Ruta 25 (*) (3),,,,,,,,,,,0,0,,0,15,,,,0
+VALLE DEL CAUCA,23,23VL02,Paso de la Torre - Siberia (Variante de Yumbo),0+0000,12+0000,Paso de la Torre - Siberia (Variante de Yumbo) (*) (3),,,,,,,,,,,0,0,,0,12,,,,0
+VALLE DEL CAUCA,23,23VL02_1,El Limón - Rozo,0+0000,3+0700,El Limón - Rozo (3),,,,,,,,,,,0,0,,0,3.7,,,,0
+VALLE DEL CAUCA,23,23VL02_2,El Limón - La Acequia,0+0000,6+0000,El Limón - La Acequia (3),,,,,,,,,,,0,0,,0,6,,,,0
+VALLE DEL CAUCA,23,2302,Mediacanoa - La Unión - La Virginia,0+0000,123+0200,Mediacanoa - Ansermanuevo,0,10.2,102.91,11,0,0,0,0,0,0,124.1,0,,124.1,124.1,124.1,0,0,124.104
+VALLE DEL CAUCA,25,2504,Popayán - Cali,98+0020,116+0776,Puente Valencia sobre el Río Cauca - Jamundí -Cali (*),9.57,2.7,0,0,0,0,0,0,0,0,12.27,0,17.6,29.87,18.7,8.74,10.28,10.28,19.02
+VALLE DEL CAUCA,25,2504A,Ye de Villarica - Palmira,21+0000,48+0700,Limites Cauca - Palmira (*),22.28,9.88,3,0,0,0,0,0,0,0,35.15,0,,35.15,28.1,20.9,6.97,7.27,28.17
+VALLE DEL CAUCA,25,2505,Cali - Palmira - Andalucía,0+0000,19+0000,Cali - Palmira (*),35.35,2.28,0,0,0,0,0,0,0,0,37.63,0,,37.63,19,0,18.95,18.68,18.68
+VALLE DEL CAUCA,25,2505,Cali - Palmira - Andalucía,19+0000,25+0000,Paso Nacional por Palmira (*),11.63,0,0,0,0,0,0,0,0,0,11.63,0,,11.63,6,0.37,5.63,5.63,6
+VALLE DEL CAUCA,25,2505,Cali - Palmira - Andalucía,25+0000,67+0000,Palmira - Buga (*),52.75,20.38,0,0,0,0,0,0,0,0,73.13,0,,73.13,42.5,10.61,31.27,31.25,41.86
+VALLE DEL CAUCA,25,2505B,Palmaseca - El Cerrito,0+0000,28+0000,Palmaseca - El Cerrito (*) (3),,,,,,,,,,,0,0,,0,28.3,,,,0
+VALLE DEL CAUCA,25,25VLB,Variante de Palmira,0+0000,14+0000,Variante de Palmira (*),24.28,4.42,0,0,0,0,0,0,0,0,28.7,0,,28.7,14,0,14.33,14.36,14.36
+VALLE DEL CAUCA,25,25VLD,Variante Sonso,0+0000,1+0150,Variante Sonso,0,1,0,0.15,0,0,0,0,0,0,1.15,0,,1.15,1.15,1.15,0,0,1.15
+VALLE DEL CAUCA,25,25VLC,Variante Ginebra,0+0000,1+0800,Variante Ginebra,0,1.8,0,0,0,0,0,0,0,0,1.8,0,,1.8,1.8,1.8,0,0,1.8
+VALLE DEL CAUCA,25,2506,La Victoria - Cerritos,42+0550,79+0578,La Victoria - Cartago (*),0,4.97,45.78,23.47,0,0,0,0,0,0,74.22,0,,74.22,37.03,0,36.74,37.48,37.48
+VALLE DEL CAUCA,31,3105,Santander de Quilichao - Florida - Palmira,50+0000,88+0000,Río Desbaratado - Palmira (*),18.85,9.7,19,13.45,6.2,0,0,0,0,0,67.2,0,,67.2,38,34.85,2.95,3.1,37.95
+VALLE DEL CAUCA,40,4001,Buenaventura - Cruce Ruta 25 (Buga),0+0000,15+0000,Buenaventura - Citronela (*),0,0.97,4.98,9.23,0,0,0,0,0,0,15.18,0,,15.18,15,5.75,9.07,9.43,15.18
+VALLE DEL CAUCA,40,4001,Buenaventura - Cruce Ruta 25 (Buga),15+0000,19+0800,Citronela - Córdoba,0,3.22,1.9,0,0,0,0,0,0,0,5.12,0,,5.12,4.65,4.65,0,0,4.65
+VALLE DEL CAUCA,40,4001,Buenaventura - Cruce Ruta 25 (Buga),19+0800,62+0408,Cordoba - Loboguerrero (*),16.42,38.42,11.78,0.81,0,0,0,0,0,0,67.43,0,,67.43,42.61,2.8,38.44,38.45,41.25
+VALLE DEL CAUCA,40,4001,Buenaventura - Cruce Ruta 25 (Buga),62+0408,118+0412,Loboguerrero - Cruce Ruta 25 (Buga) (*),11.86,24.02,42.04,8.75,0.46,0,0,0,0,0,87.13,0,,87.13,56,24.64,31.62,30.87,55.51
+VALLE DEL CAUCA,40,40VLA,Interseccion Sena - Intersección Citronela,0+0000,10+0000,Interseccion Sena - Intersección Citronela,2.19,6.49,2,0,0,0,0,0,0,0,10.68,0,,10.68,10,10.68,0,0,10.68
+VALLE DEL CAUCA,48,4803,Ansermanuevo - Cartago,0+0000,12+0000,Ansermanuevo - Cartago,0,7.19,1.99,1.27,0,0,0,0,0,0,10.44,0,,10.44,10.14,10.14,0,0,10.14
+OCAÑA,45,4514,San Alberto - La Mata,0+0000,99+0923,San Alberto - La Mata,0,150.18,15.93,2.24,0,0,0,0,0,0,168.35,0,,168.35,99.67,0,86,86,86
+OCAÑA,45,45CSD,Variante al Poblado El Libano,0+0000,1+0139,Variante al Poblado El Libano,0,0,3.06,0,0,0,0,0,0,0,3.06,0,,3.06,1.14,0,1.53,1.53,1.53
+OCAÑA,45,45CSE,Variante al Poblado de Minas,0+0000,1+0812,Variante al Poblado de Minas,0,2.4,1.06,0,0,0,0,0,0,0,3.46,0,,3.46,1.81,0,1.73,1.73,1.732
+OCAÑA,45,45CSF,Variante al Poblado de San Martin,0+0000,3+0092,Variante al Poblado de San Martin,0,6.13,0.41,0,0,0,0,0,0,0,6.54,0,,6.54,3.09,0,3.27,3.27,3.271
+OCAÑA,45,45CSG,Variante al Poblado de Morrison,0+0000,1+0138,Variante al Poblado de Morrison,0,1.16,1,0,0,0,0,0,0,0,2.16,0,,2.16,1.14,0,1.08,1.08,1.08
+OCAÑA,45,45CSH,Variante al Poblado del Juncal,0+0000,1+0238,Variante al Poblado del Juncal,0,2.07,1.4,0,0,0,0,0,0,0,3.47,0,,3.47,1.24,0,1.74,1.74,1.738
+OCAÑA,45,45CSI,Variante al Poblado de Aguachica,0+0000,4+0905,Variante al Poblado de Aguachica,0,9.7,0,0,0,0,0,0,0,0,9.7,0,,9.7,4.9,0,4.85,4.85,4.85
+OCAÑA,45,45CSJ,Variante al Poblado de Besotes,0+0000,1+0140,Variante al Poblado de Besotes,0,2.6,0,0,0,0,0,0,0,0,2.6,0,,2.6,1.14,0,1.3,1.3,1.3
+OCAÑA,45,45CS04,Aguaclara - Aguachica,0+0000,1+0920,Aguaclara - Circunvalar de Aguachica (3),,,,,,,,,,,0,0,,0,1.92,,,,0
+OCAÑA,70,7007,Aguaclara - Ocaña,0+0000,43+0000,Aguaclara - Río de Oro,0,33.97,7.04,1.99,0,0,0,0,0,0,43,0,,43,43,43.15,0,0,43.15
+OCAÑA,70,7007,Aguaclara - Ocaña,43+0000,54+0787,Río de Oro - Ocaña (*),0,1.81,11.49,0,0,0,0,0,0,0,13.3,0,,13.3,11.89,10.42,1.44,1.44,11.86
+OCAÑA,70,7008,Ocaña - Sardinata,0+0000,69+0000,Ocaña - Alto del Pozo (*),0,6.29,13.46,51.22,0,0,0,0,0,0,70.97,0,,70.97,68.85,70.97,2.17,2.17,73.142
+OCAÑA,70,7006,Gamarra - Aguachica,2+0750,11+0450,Gamarra - Circunvalar de Aguachica (3),,,,,,,,,,,0,0,,0,8.7,,,,0
+OCAÑA,70,70CS03,Gamarra - Puerto Capulco,1+0620,5+0000,Gamarra - Puerto Capulco (3),,,,,,,,,,,0,0,,0,3.38,,,,0
+OCAÑA,70,70NS01,La Ondina - Llano Grande - Convención,0+0000,33+0000,La Ondina - Llano Grande - Convención,0.61,2.17,10.01,7.12,8.48,0,0,0,1.01,3.82,28.4,4.83,,33.22,32.83,33.23,0,0,33.234
+SAN ANDRÉS Y PROVIDENCIA (PLANTA CENTRAL),01,0101,Circunvalación de la Isla de San Andrés,0+0000,27+0800,Circunvalación de la Isla de San Andrés,12,6,4,5.8,0,0,0,0,0,0,27.8,0,,27.8,28.02,27.8,0,0,27.8
+SAN ANDRÉS Y PROVIDENCIA (PLANTA CENTRAL),01,0301,Circunvalación de la Isla de Providencia,0+0000,17+0500,Circunvalación de la Isla de Providencia (4),0,4.5,11,2,0,0,0,0,0,0,17.5,0,,17.5,17.73,17.73,0,0,17.732
